@@ -23,7 +23,6 @@ A full-stack Pharmacy Management System to manage medicines, orders, and users e
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/gautam212121/Pharmacy.git
 cd Pharmacy
 npm install
 npm start
